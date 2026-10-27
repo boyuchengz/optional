@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Download Optional · 下载 Optional
+    url: https://optional.pro/download
+    about: The latest version, signed and notarized. Optional updates itself after that. · 最新版本，已签名并公证，之后会自动更新。
+  - name: Write to me · 写邮件
+    url: https://optional.pro/contact
+    about: For anything you’d rather not post in public. · 不方便公开发的内容，可以写邮件。

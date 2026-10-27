@@ -1,0 +1,61 @@
+name: Report a bug · 报告问题
+description: Something in Optional doesn’t work the way it should. 中文、英文都可以写。
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time. A few details make it much quicker to find and fix.
+        感谢反馈。多写一点细节，修起来会快很多。
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened? · 发生了什么？
+      description: What you did, what you expected, and what happened instead. · 你做了什么，期望什么，实际发生了什么。
+      placeholder: |
+        Held Left Option and tapped V in Safari. Expected the clipboard wheel; nothing appeared.
+        在 Safari 里按住左侧 Option 再点 V，期望打开剪贴板轮盘，但什么都没出现。
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce · 复现步骤
+      placeholder: |
+        1.
+        2.
+        3.
+  - type: input
+    id: version
+    attributes:
+      label: Optional version · Optional 版本
+      description: Shown in Optional’s Settings › Updates. · 在 Optional 的“设置 › 更新”里可以看到。
+      placeholder: "1.4.4"
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version · macOS 版本
+      description: Apple menu › About This Mac. · 苹果菜单 › 关于本机。
+      placeholder: "macOS 15.1"
+    validations:
+      required: true
+  - type: input
+    id: setup
+    attributes:
+      label: Trigger key and input source · 触发键和输入法
+      description: Only if it matters, for example a different trigger key or Pinyin. · 有关系时再填，比如换过触发键或在用拼音。
+      placeholder: "Left Option, Pinyin · 左侧 Option，拼音"
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshot or recording · 截图或录屏
+      description: Drag images or a short video here. Press ⌘⇧5 to record the screen. · 把图片或短视频拖到这里。按 ⌘⇧5 可以录屏。
+  - type: textarea
+    id: log
+    attributes:
+      label: Log · 日志
+      description: |
+        Optional keeps a log at `~/Library/Logs/Optional/Optional.log`. In Finder, press ⌘⇧G and paste that path, then drag the file here or paste the lines from around the time it happened. It can include app and window names, so have a look first.
+        日志位于 `~/Library/Logs/Optional/Optional.log`。在访达中按 ⌘⇧G 粘贴这个路径，把文件拖到这里，或粘贴出问题前后的几行。日志可能包含应用和窗口名称，提交前可以先看一眼。

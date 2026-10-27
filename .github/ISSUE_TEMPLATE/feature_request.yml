@@ -1,0 +1,34 @@
+name: Suggest a feature · 提个建议
+description: A wheel, an action or a change you’d like. 中文、英文都可以写。
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The best ideas start with what you were trying to do. Check the open issues first: a thumbs-up on one that’s already there counts too.
+        最好的建议往往从“我当时想做什么”开始。提交前可以先看看已有的问题，给已有的问题点个赞也算数。
+  - type: textarea
+    id: moment
+    attributes:
+      label: What were you trying to do? · 你当时想做什么？
+      description: The moment you wished Optional could help. · 你希望 Optional 能帮上忙的那个时刻。
+      placeholder: |
+        I copy a tracking number from Mail and then open the carrier’s site to paste it in.
+        我经常从邮件里复制快递单号，再打开快递网站粘贴进去查询。
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like Optional to do? · 你希望 Optional 怎么做？
+      description: A new wheel, an action in a wheel, an Edge Drops destination, a setting… · 新的轮盘、轮盘里的操作、边缘投放的目标、某个设置……
+      placeholder: |
+        With a tracking number selected, ⌥Space could offer “Track Package”.
+        选中快递单号时，⌥空格 可以提供“查询快递”。
+    validations:
+      required: true
+  - type: textarea
+    id: more
+    attributes:
+      label: Anything else? · 还有什么？
+      description: Apps you use for this today, screenshots, sketches. · 你现在用来做这件事的应用、截图或草图。
