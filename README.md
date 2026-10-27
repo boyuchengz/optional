@@ -10,7 +10,7 @@
 
 Hold Left Option, tap a letter, let go. Your clipboard, windows, recent files, headphones and the right action for what you’ve selected. One gesture, no typing.
 
-<a href="https://optional.pro/download"><img src="assets/buttons/download.png" height="44" alt="Download for Mac"></a>
+<a href="https://optional.pro/"><img src="assets/buttons/download.png" height="44" alt="Download for Mac"></a>
 
 <sub>Free&nbsp;&nbsp;·&nbsp;&nbsp;macOS 14 or later&nbsp;&nbsp;·&nbsp;&nbsp;Apple silicon</sub>
 
