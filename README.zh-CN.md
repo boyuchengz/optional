@@ -8,8 +8,7 @@
 
 ### 把 Option-Tab 用在所有地方
 
-按住左侧 Option，点一个字母，松开。剪贴板、窗口、最近文件、耳机，<br>
-还有针对你选中内容的操作。一个手势，不用打字。
+按住左侧 Option，点一个字母，松开。剪贴板、窗口、最近文件、耳机，还有针对你选中内容的操作。一个手势，不用打字。
 
 <a href="https://optional.pro/zh/download"><img src="assets/buttons/download-zh.png" height="44" alt="下载 Mac 版"></a>
 
