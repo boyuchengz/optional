@@ -20,10 +20,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/wheels-dark.gif">
-  <img src="assets/wheels-light.gif" width="100%" alt="Optional 在 Mac 上：按住 Option，点 V 从剪贴板粘贴，点 Tab 切换窗口，点 S 打开深色模式。">
+  <img src="assets/wheels-light.gif" width="100%" alt="Optional 的十三个轮盘依次展示：剪贴板、窗口、情境、系统开关等。">
 </picture>
-
-<p align="center"><sub>⌥V 从剪贴板粘贴&nbsp;&nbsp;·&nbsp;&nbsp;⌥Tab 切换窗口&nbsp;&nbsp;·&nbsp;&nbsp;⌥S 打开深色模式</sub></p>
 
 <br>
 
@@ -32,6 +30,13 @@
 | 按住 | 点一下 | 松开 |
 | :--- | :--- | :--- |
 | <kbd>⌥</kbd>，或你选的任意键。 | 字母打开轮盘，再点就移动。 | 立即执行。<kbd>Esc</kbd> 退出。 |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.gif">
+  <img src="assets/demo-light.gif" width="100%" alt="Optional 在 Mac 上：按住 Option，点 V 从剪贴板粘贴，点 Tab 切换窗口，点 S 打开深色模式。">
+</picture>
+
+<p align="center"><sub>⌥V 从剪贴板粘贴&nbsp;&nbsp;·&nbsp;&nbsp;⌥Tab 切换窗口&nbsp;&nbsp;·&nbsp;&nbsp;⌥S 打开深色模式</sub></p>
 
 ## 十三个轮盘，打开就是满的。
 

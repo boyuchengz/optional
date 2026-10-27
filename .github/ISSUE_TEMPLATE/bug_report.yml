@@ -5,8 +5,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time. A few details make it much quicker to find and fix.
-        感谢反馈。多写一点细节，修起来会快很多。
+        Thanks for reporting. The more specific, the faster it gets fixed.
+        谢谢反馈。写得越具体，修得越快。
   - type: textarea
     id: what
     attributes:

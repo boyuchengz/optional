@@ -20,10 +20,8 @@ Hold Left Option, tap a letter, let go. Your clipboard, windows, recent files, h
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/wheels-dark.gif">
-  <img src="assets/wheels-light.gif" width="100%" alt="Optional on a Mac: hold Option and tap V to paste from the clipboard, Tab to switch windows and S to turn on Dark Mode.">
+  <img src="assets/wheels-light.gif" width="100%" alt="Optional’s thirteen wheels, one after another: Clipboard, Windows, Context, System Toggles and the rest.">
 </picture>
-
-<p align="center"><sub>⌥V pastes from your clipboard.&nbsp;&nbsp;⌥Tab switches windows.&nbsp;&nbsp;⌥S turns on Dark Mode.</sub></p>
 
 <br>
 
@@ -32,6 +30,13 @@ Hold Left Option, tap a letter, let go. Your clipboard, windows, recent files, h
 | Hold | Tap | Let go |
 | :--- | :--- | :--- |
 | <kbd>⌥</kbd>, or any key you choose. | A letter opens a wheel. Tap again to move. | It runs. <kbd>Esc</kbd> backs out. |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.gif">
+  <img src="assets/demo-light.gif" width="100%" alt="Optional on a Mac: hold Option and tap V to paste from the clipboard, Tab to switch windows and S to turn on Dark Mode.">
+</picture>
+
+<p align="center"><sub>⌥V pastes from your clipboard.&nbsp;&nbsp;⌥Tab switches windows.&nbsp;&nbsp;⌥S turns on Dark Mode.</sub></p>
 
 ## Thirteen wheels. Already full.
 

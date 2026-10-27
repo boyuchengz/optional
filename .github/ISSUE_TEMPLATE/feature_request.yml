@@ -5,8 +5,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        The best ideas start with what you were trying to do. Check the open issues first: a thumbs-up on one that’s already there counts too.
-        最好的建议往往从“我当时想做什么”开始。提交前可以先看看已有的问题，给已有的问题点个赞也算数。
+        Check the open issues first. If someone already asked for it, a thumbs-up there helps.
+        提交前可以先看看已有的问题。如果已经有人提过，在那里点个赞就好。
   - type: textarea
     id: moment
     attributes:
