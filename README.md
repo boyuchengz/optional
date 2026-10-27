@@ -38,7 +38,7 @@ Hold Left Option, tap a letter, let go. Your clipboard, windows, recent files, h
 
 <p align="center"><sub>⌥V pastes from your clipboard.&nbsp;&nbsp;⌥Tab switches windows.&nbsp;&nbsp;⌥S turns on Dark Mode.</sub></p>
 
-## Thirteen wheels. Already full.
+## Meticulously designed wheels.
 
 Nothing to set up. Each one fills with what you’re doing right now. Hold <kbd>⌥</kbd> and tap:
 
@@ -69,7 +69,7 @@ Start dragging a file and the screen edges become places to drop it: AirDrop, Ma
   <img src="assets/edge-drops-light.gif" width="100%" alt="Edge Drops: while a file is dragged, each screen edge lights up with places to drop it.">
 </picture>
 
-## A clipboard that reads the room.
+## An adaptive clipboard.
 
 The same copies, in the order the place you paste into wants.
 
@@ -95,11 +95,11 @@ The right actions for what you’ve selected, and the result lands right where i
 
 Also Copy as Markdown Link, Open in another browser, Space Between 中文 and English, Search the Web, Send… to AirDrop, Messages or Mail, and actions for files, images and PDFs in Finder.
 
-## ⌥Z takes it back.
+## ⌥Z Universal Undo.
 
 The window you switched to, the paste, the headphones. Undone.
 
-## On your Mac.
+## Stays on your Mac.
 
 Everything you copy stays on your Mac. There’s no account, no analytics and no ads. Optional goes online only to check for updates and, when you copy a Markdown link, to read that page’s title. [Privacy policy](https://optional.pro/privacy)
 
