@@ -10,7 +10,7 @@
 
 按住左侧 Option，点一个字母，松开。剪贴板、窗口、最近文件、耳机，还有针对你选中内容的操作。一个手势，不用打字。
 
-<a href="https://optional.pro/zh/download"><img src="assets/buttons/download-zh.png" height="44" alt="下载 Mac 版"></a>
+<a href="https://optional.pro/zh/"><img src="assets/buttons/download-zh.png" height="44" alt="下载 Mac 版"></a>
 
 <sub>免费&nbsp;&nbsp;·&nbsp;&nbsp;macOS 14 及以上&nbsp;&nbsp;·&nbsp;&nbsp;Apple 芯片</sub>
 
